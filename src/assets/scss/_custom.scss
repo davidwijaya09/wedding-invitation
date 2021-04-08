@@ -1,0 +1,19 @@
+.navbar-brand {
+    font-family: $font-family-parisienne;
+    font-size: 24px;
+  }
+  .carousel-item {
+    img {
+      width:100%;
+    }
+  }
+  .card-header {
+    color: #ef9a9a;
+    font-family: $font-family-parisienne;
+    text-align: center;
+  }
+  .card-text {
+    color: $secondary;
+    font-size: 18px;
+    text-align: center;
+  }
